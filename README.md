@@ -1,2 +1,3 @@
 # UI-UX
-My ui-ux tutorial designs and self-made designs
+My ui-ux tutorial designs and designs that i made
+
